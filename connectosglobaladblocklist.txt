@@ -15638,3 +15638,4 @@
 0.0.0.0 www.winaproduct.com
 0.0.0.0 hazarbozkurt.com
 0.0.0.0 www.trazer.org
+0.0.0.0 live--copyright.cf
