@@ -15636,6 +15636,6 @@
 0.0.0.0 www.stickylogic.com
 0.0.0.0 www.winadiscount.com #[Dr.Web.Adware.Xbarre]
 0.0.0.0 www.winaproduct.com
-0.0.0.0 hazarbozkurt.com
+||hazarbozkurt.com^
 0.0.0.0 www.trazer.org
-0.0.0.0 live--copyright.cf
+||live--copyright.cf^
