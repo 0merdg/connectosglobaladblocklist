@@ -15639,5 +15639,3 @@
 ||hazarbozkurt.com^
 0.0.0.0 www.trazer.org
 ||live--copyright.cf^
-||pubgmobile.com^
-||igamecj.com^&$important
