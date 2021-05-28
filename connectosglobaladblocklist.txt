@@ -15640,3 +15640,5 @@
 0.0.0.0 www.trazer.org
 ||live--copyright.cf^
 ||instahelpsecurityservices.com^
+||r3---sn-u0g3jxaa-5qce.googlevideo.com^
+||googleads.g.doubleclick.net
