@@ -15641,4 +15641,9 @@
 ||live--copyright.cf^
 ||instahelpsecurityservices.com^
 ||r3---sn-u0g3jxaa-5qce.googlevideo.com^
-||googleads.g.doubleclick.net
+googleads.g.doubleclick.net
+https://pagead2.googlesyndication.com
+https://ads.google.com
+https://adservice.google.com
+https://pagead2.googleadservices.com
+https://googleadservices.com
